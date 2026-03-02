@@ -1,4 +1,5 @@
 🏥 Site Institucional - Clínica Médica - Projeto desenvolvido para fins educacionais.
+
 Projeto de desenvolvimento de um site institucional para uma clínica médica, criado como parte do curso de HTML da DIO.
 O objetivo do projeto foi aplicar conceitos fundamentais de estruturação de páginas web, organização semântica e navegação entre páginas utilizando HTML e CSS.
 
